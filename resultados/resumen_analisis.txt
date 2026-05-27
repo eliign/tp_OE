@@ -1,0 +1,11 @@
+RESUMEN DE ANÁLISIS DE VENTAS — 2024
+=====================================
+Total de registros:        366
+Período:                   01/01/2024 al 31/12/2024
+Ventas totales:            $1,812,114.00
+Promedio diario de ventas: $4,951.13
+Día con mayor venta:       2024-03-20 ($8,960)
+Día con menor venta:       2024-04-21 ($1,003)
+Mes con mayor facturación: 2024-09 ($173,024.00)
+Mes con menor facturación: 2024-10 ($127,380.00)
+=====================================
